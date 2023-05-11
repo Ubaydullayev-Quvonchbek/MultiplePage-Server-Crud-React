@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+
+.navbar{
+  width: 1120px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 30px;
+  align-items: center;
+  color: #fff;
+  padding-bottom: 30px;
+}
+.list-item{
+  font-size: 20px;
+}
+nav{
+  background-color: rgb(79, 199, 255);
+}
+.list {
+  display: flex;
+  gap: 30px;
+}
