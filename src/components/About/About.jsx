@@ -40,7 +40,7 @@ function About() {
       <header>
         <div
           className="modal show"
-          style={{ display: 'block', transform: `${modal}`, transition: "1s" }}
+          style={{ display: 'block', transform: `${modal}`, transition: ".5s" }}
         >
           <Modal.Dialog>
             <Modal.Header>
